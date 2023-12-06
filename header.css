@@ -1,0 +1,169 @@
+ .navlogo{
+    height: 30px;
+    width:30px;
+    margin-top: 5px;
+    margin-left: -100px;
+   
+}
+
+.features{
+  color: white;
+}
+
+.me-auto{
+  color: white;
+  float: right;
+  margin-right: 90px;
+}
+
+.bar{
+    height: 20px;
+    width:20px;
+    float:left;
+   }
+
+   .menu-icon{
+    color: white;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-left: 20px;
+   }
+
+.custom-navbar{
+    background: linear-gradient(to right,rgb(243, 132, 68),rgb(206, 91, 135));
+    height:50px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.search{
+    float:right;
+    margin-right: 80px;
+}
+
+.form-inline {
+    right: 150px;
+    display: inline;
+    margin-right: 150px;
+}
+
+.person1{
+    border-radius: 10 px;
+    height: 20px;
+    width:20px;
+    height: 20px;
+    border-radius: 50px;
+    width: 20px;
+    margin-bottom: -10px;
+   
+} 
+
+
+
+.comment-badge {
+  background-color: blue; 
+}
+
+.notification-badge {
+  background-color: blue; 
+}
+
+.comment-badge {
+  top: 140%;
+  left: 91.6%;
+  transform: translate(-50%, -50%);
+  margin-top: -8px 
+}
+
+.notification-badge {
+  top: 180%;
+  left: 88.2%;
+  transform: translate(-50%, -50%);
+  margin-top: -15px ;
+}
+
+.logopic {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-bottom: 150px;
+}
+
+.flagpic{
+  height: 18px;
+  width: 18px;
+  
+  margin-left:60px;
+  margin-bottom: -10px;
+  
+}
+
+.d-flex{
+  height: 40px ;
+  width: 180px ;
+  opacity: 60%;
+  color: rgb(199, 188, 188);
+
+  margin-right: -50px;
+
+}
+.icon{ 
+  position: absolute;
+  color: darkslategrey;
+  padding-top: 8px;
+  margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,316 @@
+.body{
+    background-color:rgb(234, 237, 240);
+}
+
+
+.header{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px ;
+}
+
+.john{
+    margin-left:10px ;
+    margin-top:10px ;
+    font-size: medium;
+
+}
+
+.date{
+    margin-left:10px ;
+    font-size: small;
+    margin-top: 40px;
+    color: rgb(136, 133, 133);
+}
+
+.info{
+    height:500px;
+    
+}
+.row{
+    box-sizing: border-box;
+    border-radius:10px ;
+}
+
+.main-info{
+    justify-content: space-between;
+    border-width: 100px;
+}
+
+.main-content.card{
+    margin-bottom: 10px;
+    height:50px;
+    text-align: justify;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    height: 60px;
+    
+}
+
+.profile{
+    margin-right: 10px;
+    font-size: medium;
+}
+
+.profilepic{
+    width:40px;
+    height:40px;
+    margin-left: 10px;
+    border-radius: 15%;
+}
+
+.section-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.picture{
+    width:40px;
+    height:40px;
+    margin-left:10px;
+    border-radius: 15%;
+}
+
+.johndoe{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 150;
+}
+
+
+
+.profile-pic-card{
+    width: 30px;
+    height: 30px;
+    margin-left: auto;
+    border-radius:50%;
+}
+
+.logo-pic{
+    width: 20px;
+    height: 20px;
+    margin-right:10px;
+}
+
+.text-color-red{
+    color:red;
+}
+
+.vertical{
+    height: 40px;
+}
+
+.card-text{
+    display: flex;
+    align-items: center;
+    height:10px;
+    position: relative;
+    height:10px;
+    
+}
+
+
+.card-text1{
+    display: flex;
+    align-items: center;
+    height:70px;
+    
+}
+
+.card-text3{
+    display: flex;
+    align-items: center;
+    height:4px;
+    
+}
+
+.card-text2{
+    display: flex;
+    align-items: center;
+    height:30px;
+        display: flex;
+        flex-direction: row;
+        height: 50px;
+    
+}
+
+.profile-pic-card-overlap{
+    position: relative;
+    margin-left: -px;
+    height: 30px;
+    width: 30px;
+    left: 54%;
+    border-radius:60%;
+    margin-top: -45px;
+}
+
+.project-heading{
+    font-size:small;
+    font-weight: bold;
+    font-style: inherit;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #000 !important;
+
+}
+
+
+
+.card-text9{
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+}
+/* 
+.leave-info-project-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.tasks{
+    margin: 10px;
+}
+
+.project{
+    margin: 10px;
+}
+.task-count{
+    float: left;
+    margin-right: 10px;
+    
+   
+}
+
+.projects-bottom-center,
+.apply-leave{
+    text-align:center;
+} */
+
+
+    
+
+
+.primary{
+    color: orange;
+    
+}
+button{
+   
+    background-color: rgba(255, 68, 0, 0.897) !important;
+  
+    color: white;
+    border:0px;
+    border-radius: 5px;
+}
+.button1{
+    text-align: center;
+    color: white;
+
+}
+
+
+
+
+
+.settings-pic{
+    height:20px;
+    width:20px;
+    border-radius: 50%;
+    margin-left: 1310px;
+    margin-top: -15px;
+}
+
+.applyleave{
+    margin-right: -240px;
+    margin-bottom: 100px;
+    text-align: center;
+    text-align: right;
+   
+}
+
+.pro-1{
+    display: flex;
+    flex-direction: row;
+    gap: 65px;
+    justify-content: center;
+    
+}
+
+
+.pro-2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    font-size: small;
+    justify-content: center;
+}
+
+.center{
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.center1{
+    margin-left: 24px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
