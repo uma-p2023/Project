@@ -154,7 +154,7 @@
     font-style: inherit;
     margin-top: 8px;
     margin-bottom: 8px;
-    color: #000 !important;
+    color: #000;
 
 }
 
@@ -165,31 +165,6 @@
     display: flex;
     flex-direction: column;
 }
-/* 
-.leave-info-project-1{
-    display: flex;
-    flex-direction: column;
-}
-
-.tasks{
-    margin: 10px;
-}
-
-.project{
-    margin: 10px;
-}
-.task-count{
-    float: left;
-    margin-right: 10px;
-    
-   
-}
-
-.projects-bottom-center,
-.apply-leave{
-    text-align:center;
-} */
-
 
     
 
@@ -200,7 +175,7 @@
 }
 button{
    
-    background-color: rgba(255, 68, 0, 0.897) !important;
+    background-color: rgba(255, 68, 0, 0.897);
   
     color: white;
     border:0px;
